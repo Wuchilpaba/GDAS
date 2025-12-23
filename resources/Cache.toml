@@ -1,0 +1,70 @@
+TaskType = "GlycoSearch"
+
+[_glycoSearchParameters]
+OGlycanDatabasefile = "O-glycans 78 mammalian.txt"
+NGlycanDatabasefile = "NGlycan.gdb"
+GlycoSearchType = "OGlycanSearch"
+OxoniumIonFilt = true
+DecoyType = "Reverse"
+GlycoSearchTopNum = 50
+MaximumOGlycanAllowed = 4
+DoParsimony = true
+NoOneHitWonders = false
+ModPeptidesAreDifferent = false
+DoQuantification = true
+DoMbrAnalysis = true
+QuantifyPpmTol = 5.0
+Normalize = true
+WriteIndividualFiles = false
+WriteDecoys = true
+WriteContaminants = true
+DisposeOfFileWhenDone = true
+
+[CommonParameters]
+TaskDescriptor = "Cache"
+MaxThreadsToUsePerFile = 15
+ListOfModsFixed = "Common Fixed\tCarbamidomethyl on C\t\tCommon Fixed\tCarbamidomethyl on U"
+ListOfModsVariable = "Common Variable\tOxidation on M\t\tCommon Artifact\tDeamidation on N\t\tCommon Artifact\tDeamidation on Q"
+DoPrecursorDeconvolution = true
+UseProvidedPrecursorInfo = true
+DeconvolutionIntensityRatio = 3.0
+DeconvolutionMaxAssumedChargeState = 12
+DeconvolutionMassTolerance = "±4.0000 PPM"
+TotalPartitions = 1
+ProductMassTolerance = "±20.0000 PPM"
+PrecursorMassTolerance = "±10.0000 PPM"
+AddCompIons = false
+QValueThreshold = 0.01
+PepQValueThreshold = 1.0
+ScoreCutoff = 3.0
+ReportAllAmbiguity = true
+NumberOfPeaksToKeepPerWindow = 1000
+MinimumAllowedIntensityRatioToBasePeak = 0.01
+NormalizePeaksAccrossAllWindows = false
+TrimMs1Peaks = false
+TrimMsMsPeaks = false
+UseDeltaScore = false
+CustomIons = []
+AssumeOrphanPeaksAreZ1Fragments = true
+MaxHeterozygousVariants = 4
+MinVariantDepth = 1
+AddTruncations = false
+DissociationType = "HCD"
+SeparationType = "HPLC"
+MS2ChildScanDissociationType = "HCD"
+MS3ChildScanDissociationType = "Unknown"
+
+[CommonParameters.DigestionParams]
+MaxMissedCleavages = 2
+InitiatorMethionineBehavior = "Variable"
+MinPeptideLength = 5
+MaxPeptideLength = 60
+MaxModificationIsoforms = 1024
+MaxModsForPeptide = 2
+Protease = "Trypsin-IMPa"
+SearchModeType = "Full"
+FragmentationTerminus = "Both"
+SpecificProtease = "Trypsin-IMPa"
+GeneratehUnlabeledProteinsForSilac = true
+KeepNGlycopeptide = false
+KeepOGlycopeptide = false

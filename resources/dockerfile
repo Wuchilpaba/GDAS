@@ -1,0 +1,7 @@
+FROM bitnami/ray:latest
+
+RUN pip install modin[ray]
+
+RUN pip install biopython
+
+WORKDIR /app

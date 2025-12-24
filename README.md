@@ -25,3 +25,4 @@ Klein, J., Carvalho, L., & Zaia, J. (2018). Application of Network Smoothing to 
 
 Lei Lu, Nicholas M. Riley, Michael R. Shortreed, Carolyn R. Bertozzi & Lloyd M. Smith (2020). O-Pair Search with MetaMorpheus for O-glycopeptide characterization. Nature Communications, 17, 1133-1138.
 
+M. Bern, Yong J. Kil, Christopher H. Becker (2012). Byonic: Advanced Peptide and Protein Identification Software. Current Protocols in Bioinformatics, 40.

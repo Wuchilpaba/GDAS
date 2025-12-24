@@ -38,16 +38,14 @@ Ultrafast Peptide Label-Free Quantification with FlashLFQ, J Proteome Res 2018, 
 
 An atlas of protein turnover rates in mouse tissues, Nat Communications 2021, 12, 6778.
 
-Crosslinking MS (XL-MS) search: Identification of MS-Cleavable and Noncleavable Chemically Cross-Linked Peptides with MetaMorpheus , J. Proteome Res. 2018, 17, 7, 2370–2376.
+Identification of MS-Cleavable and Noncleavable Chemically Cross-Linked Peptides with MetaMorpheus , J. Proteome Res. 2018, 17, 7, 2370–2376.
 
 Improved Protein Inference from Multiple Protease Bottom-Up Mass Spectrometry Data, J Proteome Res 2019, 18, 9, 3429–3438.
 
 O-Pair Search with MetaMorpheus for O-glycopeptide characterization, Nat Methods 2020, 17, 1133–1138.
 
-Proteogenomic database searches with Spritz: Spritz: A Proteogenomic Database Engine, J Proteome Res 2021, 20, 1826–1834.
+Spritz: A Proteogenomic Database Engine, J Proteome Res 2021, 20, 1826–1834.
 
 Enhanced protein isoform characterization through long-read proteogenomics, Genome Biology 2022, 23, 69.
 
 A Hybrid Spectral Library and Protein Sequence Database Search Strategy for Bottom-Up and Top-Down Proteomic Data Analysis, J of Proteome Res 2022, 21, 2609-2618
-
-Spectral averaging with outlier rejection algorithms to increase identifications in top-down proteomics

@@ -1,4 +1,6 @@
 # GDAS
 Developed By Python and deployed with Docker
+
 Supported running glycoproteomics analysis in GlycReSoft or O-Pair with images, other analysis process supported by Ray images 
+
 GDAS's core novelty lies in a streamlined, multi-step workflow that strategically reduces computational load: it first employs an ultrafast open search (e.g., MSFragger-Glyco) on mass spectrometry data to rapidly screen for significantly regulated glycoproteins, statistically reducing the vast proteome database to a manageable subset. This resource-conserving step enables subsequent, in-depth, and targeted analysis for both N- and O-glycosylation using specialized tools (e.g., GlycReSoft and O-Pair). Furthermore, a unique Final Analysis Module utilizes an advanced statistical and machine learning pipeline (incorporating Bootstrap/Bayesian methods, XGBoost, and Random Forest) to integrate quantitative results and generate a robust, comprehensive glycosylation score for confident identification of disease-specific glycoforms. We validate GDAS using published Alzheimer's disease data, demonstrating its power to pinpoint biologically relevant glycosylation changes in targeted proteins.  

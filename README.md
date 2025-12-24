@@ -23,6 +23,31 @@ Yu, F., Yamei Deng, & Nesvizhskii, A. I. (2025). MSFragger-DDA+ Enhances Peptide
 
 Klein, J., Carvalho, L., & Zaia, J. (2018). Application of Network Smoothing to Glycan LC-MS Profiling. Bioinformatics.
 
-Lei Lu, Nicholas M. Riley, Michael R. Shortreed, Carolyn R. Bertozzi & Lloyd M. Smith (2020). O-Pair Search with MetaMorpheus for O-glycopeptide characterization. Nature Communications, 17, 1133-1138.
-
 M. Bern, Yong J. Kil, Christopher H. Becker (2012). Byonic: Advanced Peptide and Protein Identification Software. Current Protocols in Bioinformatics, 40.
+
+MetaMorpheus: Enhanced Global Post-translational Modification Discovery with MetaMorpheus, J Proteome Res 2018, 17, 1844-1851.
+
+Morpheus: A Proteomics Search Algorithm Specifically Designed for High-Resolution Tandem Mass Spectra, J Proteome Res 2013, 12, 1377–1386
+
+Global Post-Translational Modification Discovery, J Proteome Res 2017, 16, 1383–1390
+
+Global Identification of Protein Post-translational Modifications in a Single-Pass Database Search, J Proteome Res, 2015, 14, 4714–4720
+Quantification:
+
+Ultrafast Peptide Label-Free Quantification with FlashLFQ, J Proteome Res 2018, 17, 386–391.
+
+An atlas of protein turnover rates in mouse tissues, Nat Communications 2021, 12, 6778.
+
+Crosslinking MS (XL-MS) search: Identification of MS-Cleavable and Noncleavable Chemically Cross-Linked Peptides with MetaMorpheus , J. Proteome Res. 2018, 17, 7, 2370–2376.
+
+Improved Protein Inference from Multiple Protease Bottom-Up Mass Spectrometry Data, J Proteome Res 2019, 18, 9, 3429–3438.
+
+O-Pair Search with MetaMorpheus for O-glycopeptide characterization, Nat Methods 2020, 17, 1133–1138.
+
+Proteogenomic database searches with Spritz: Spritz: A Proteogenomic Database Engine, J Proteome Res 2021, 20, 1826–1834.
+
+Enhanced protein isoform characterization through long-read proteogenomics, Genome Biology 2022, 23, 69.
+
+A Hybrid Spectral Library and Protein Sequence Database Search Strategy for Bottom-Up and Top-Down Proteomic Data Analysis, J of Proteome Res 2022, 21, 2609-2618
+
+Spectral averaging with outlier rejection algorithms to increase identifications in top-down proteomics
